@@ -1,3 +1,9 @@
+-- MavenMovies SQL Project
+-- This project contains SQL queries for analyzing and managing the Maven Movies database.
+-- It includes queries for retrieving data, using aggregate functions, string functions, logical functions, window functions, and performing various types of joins.
+-- The queries are structured for easy understanding and usage.
+
+
 use mavenmovies;
 select * from mavenmovies.actor;
 
